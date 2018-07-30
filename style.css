@@ -3,7 +3,11 @@ body {
 	font-family: Helvetica;
 }
 
-#logo { 
+h1 {
+	 font-weight: 100;
+}
+
+#logo {
 	height: 80px;
 	width: 80px;
 
